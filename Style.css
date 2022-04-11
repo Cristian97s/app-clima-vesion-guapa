@@ -481,6 +481,7 @@ main table tbody tr:last-child td{
 }
 
 .right .sales-analytics h2{
+    margin-top: 2rem;
     margin-bottom: 0.8rem;
 }
 

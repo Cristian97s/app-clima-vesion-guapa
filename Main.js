@@ -1,5 +1,6 @@
 
 const APP_ID = '4090239d69cdb3874de692fd18539299';
+
 const sideMenu = document.querySelector("aside");
 const menuBtn = document.querySelector("#menu-btn");
 const closeBtn = document.querySelector("#close-btn");
